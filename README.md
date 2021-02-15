@@ -4,6 +4,8 @@ Exploring and understanding the data is one of the most important parts of the d
 the data first and then find and fix the data problems. 
 You are required to:
 
-● Detect and fix errors in dirty_data.csv
-● Detect and remove outlier rows in outlier_data.csv (outliers are to be found w.r.t. delivery_charges attribute only)
+● Detect and fix errors in dirty_data.csv file.
+
+● Detect and remove outlier rows in outlier_data.csv file.
+
 ● Impute the missing values in missing_data.csv file.
